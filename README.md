@@ -6,7 +6,7 @@
         <meta name="description" content="" />
         <meta name="author" content="Paula Oliveira" />
         <title>Currículo Paula Oliveira</title>
-        <link rel="icon" type="image/x-icon" href="assets/img/favicon.ico" />
+        <link rel="icon" type="image" href="assets/img/profile.jpeg" />
         <!-- Font Awesome icons (free version)-->
         <script src="https://use.fontawesome.com/releases/v6.3.0/js/all.js" crossorigin="anonymous"></script>
         <!-- Google fonts-->
@@ -146,3 +146,4 @@
         <script src="js/scripts.js"></script>
     </body>
 </html>
+
